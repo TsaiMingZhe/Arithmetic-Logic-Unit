@@ -1,0 +1,6 @@
+`include "./alu.v"
+`include "./CLZ.v"
+`include "./FP_add.v"
+`include "./GELU.v"
+`include "./FX_add_sub.v"
+`include "./Signed_mult.v"
